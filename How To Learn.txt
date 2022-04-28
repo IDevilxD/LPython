@@ -1,0 +1,7 @@
+1. Always read Intoduction of topic this will give a better understanding and overview
+
+2. Try every example code personally 
+
+3. Build small projects
+
+4. Don't ever think you can learn python in 1 day and will be able to make apps and hack networks the other day everything takes time
